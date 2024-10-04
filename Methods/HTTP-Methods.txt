@@ -1,0 +1,19 @@
+## HTTP Methods
+
+GET			Request some data from the server
+
+POST		Submit a new resource to server
+
+PUT			Updates a resource on the server
+
+PATCH		Updates a resource on the server partially
+
+DELETE		Deletes a resource on the server
+
+HEAD		Same as GET, but doesn't request for a response body.
+
+CONNECT		Establishes a tunnel to the server  
+
+OPTIONS		Describe the communication options for the target resource
+
+TRACE		Performs a message loop-back test to the target resource
